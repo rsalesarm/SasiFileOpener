@@ -45,6 +45,6 @@
                 <param name="wp-package" value="SasiFileOpener"/>
             </feature>
         </config-file>
-        <source-file src="src/wp/SasiFileOpener.cs" />
+        <source-file src="src/wp8/SasiFileOpener.cs" />
     </platform>
 </plugin>
