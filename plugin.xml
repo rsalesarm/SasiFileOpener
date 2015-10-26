@@ -3,7 +3,7 @@
 <plugin 
     xmlns="http://www.phonegap.com/ns/plugins/1.0" 
     xmlns:android="http://schemas.android.com/apk/res/android" 
-    id="com.phonegap.plugins.SasiFileOpener" 
+    id="com.phonegap.plugins.sasifileopener" 
     version="0.0.5">
 
     <engines>
